@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend-Mentor-Stats-preview-card-component using flex](https://www.frontendmentor.io/solutions/frontendmentorstatspreviewcardcomponent-using-flex-0WC4JJol3)
+- Live Site URL: [netlify](https://ecstatic-edison-575543.netlify.app/)
 
 ## My process
 
@@ -35,6 +35,7 @@ Users should be able to:
 - Using sass (still learn)
 - Flexbox
 - Mobile-first workflow
+- Using figma to find the right font-size and the margin ( I hope )
 
 ### What I learned
 
