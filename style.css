@@ -49,7 +49,7 @@ article header {
   overflow: hidden;
   width: 545px;
   height: 445px;
-  border-radius: 10px 10px 0 0;
+  border-radius: 0 10px 10px 0;
   background-color: #aa5cdb;
 }
 
@@ -118,6 +118,10 @@ article .main-content .stat span {
   font-weight: 400;
   font-size: 13px;
   color: rgba(255, 255, 255, 0.6);
+}
+
+footer .attribution {
+  margin-top: 1rem;
 }
 
 @media screen and (max-width: 375px) {

@@ -54,7 +54,7 @@ article {
     overflow: hidden;
     width: 545px;
     height: 445px;
-    border-radius: 10px 10px 0 0;
+    border-radius: 0 10px 10px 0;
     background-color: $Soft_violet;
     // background-attachment: fixed;
 
@@ -109,6 +109,10 @@ article {
       }
     }
   }
+}
+
+footer .attribution {
+  margin-top: 1rem;
 }
 
 @media screen and (max-width: 375px) {
